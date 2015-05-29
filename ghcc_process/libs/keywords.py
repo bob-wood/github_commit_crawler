@@ -12,4 +12,7 @@ KEYWORDS = ['password',  # can be noisy
             'apikey',
             'secret',
             'BEGIN RSA PRIVATE KEY',
-            'BEGIN PGP PRIVATE']
+            'BEGIN PGP PRIVATE'
+            'PHI',
+            'medical record',
+            ]
